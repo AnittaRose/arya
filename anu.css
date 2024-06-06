@@ -1,0 +1,21 @@
+.first{
+    color: rgb(255, 0, 0);
+    border: 2px solid black;
+    font-size: 100px;
+    text-align: center;
+}
+#first{
+    color: green;
+    border: 2px solid black;
+    font-size: 100px;
+}
+p{
+    text-decoration: overline;
+    text-decoration: none;
+    text-transform: capitalize;
+    font-weight: bold;
+    font-weight: 800;
+
+    line-height: normal;
+    line-height: 70px;
+}
